@@ -28,3 +28,4 @@ There are basically three types of recommender systems explained in this noteboo
 ![Alt text](https://github.com/Hemant-1Kumar/Movie-Recommender-System/blob/dab3165336e23598d9b91882249c58e70c6c3d67/Screenshot%20(116).png)
 ![Alt text](https://github.com/Hemant-1Kumar/Movie-Recommender-System/blob/83910d263f82061bcf2674593c60585564108f39/Screenshot%20(118).png)
 ![Alt text](https://github.com/Hemant-1Kumar/Movie-Recommender-System/blob/83910d263f82061bcf2674593c60585564108f39/Screenshot%20(119).png)
+![Alt text](https://github.com/Hemant-1Kumar/Movie-Recommender-System/blob/ff5fec41c7ff3a77bc38143f9c2ee750c5b85ff5/Screenshot%20(120).png)
